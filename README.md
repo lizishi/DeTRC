@@ -48,7 +48,6 @@ Our model can be trained with
 
 ```python
 python tools/train.py DeTRC/configs/repcount_tsn_feature_enc_contrastive.py --validate
-python tools/train.py DeTRC/configs/repcount_tsn_feature_enc_contrastive_mae.py --validate  # for MAE version
 ```
 
 We recommend to set the `--validate` flag to monitor the training process.
@@ -57,7 +56,6 @@ We recommend to set the `--validate` flag to monitor the training process.
 If you want to test the pretrained model, please use the following code. We provide the pretrained model [here](https://pan.baidu.com/s/1M1qOgytY87KPFOthKpIUDw?pwd=awxe).
 ```shell
 python tools/test.py DeTRC/configs/repcount_tsn_feature_enc_contrastive.py PATH_TO_CHECKPOINT
-python tools/test.py DeTRC/configs/repcount_tsn_feature_enc_contrastive_mae.py PATH_TO_CHECKPOINT  # for MAE version
 ```
 
 ## Results
