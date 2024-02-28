@@ -40,7 +40,7 @@ python setup.py build_ext --inplace
 ```
 
 ## Data
-We used the TSN feature of RepCountA and UCFRep datasets. Please refer to the guidance [here](./docs/prepare_dataset_DeTRC.md).
+We use the TSN feature of RepCountA and UCFRep datasets. Please refer to the guidance [here](./docs/prepare_dataset_DeTRC.md).
 
 ## Train
 
@@ -59,6 +59,15 @@ If you want to test the pretrained model, please use the following code. We prov
 python tools/test.py DeTRC/configs/repcount_tsn_feature_enc_contrastive.py PATH_TO_CHECKPOINT
 python tools/test.py DeTRC/configs/repcount_tsn_feature_enc_contrastive_mae.py PATH_TO_CHECKPOINT  # for MAE version
 ```
+
+## Results
+
+| ![pose_1](https://shirleymaxx.github.io/action_counting/images/assets/stu7_8.gif) | ![pose_1](https://shirleymaxx.github.io/action_counting/images/assets/stu1_27.gif) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+Comparison with SOTA:
+
+![cmp_1](https://shirleymaxx.github.io/action_counting/images/assets/sota2.gif)
 
 ## Citation
 
