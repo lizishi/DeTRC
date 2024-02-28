@@ -8,6 +8,7 @@
 <a href="https://www.youtube.com/watch?v=EmBAE9kDHLA&ab_channel=XiaoxuanMa", target="_blank">
 <img src="https://img.shields.io/badge/_-Video-ea3323?style=for-the-badge&logo=Youtube&logoColor=white" alt="YouTube"></a>
 </p>
+
 This is the official PyTorch implementation of the paper "Efficient Action Counting with Dynamic Queries". It provides a novel perspective to tackle the *Temporal Repetition Counting* problem using a simple yet effective representation for action cycles, reducing the computational complexity from **quadratic** to **linear** with SOTA performance.
 
 <p align="center">
