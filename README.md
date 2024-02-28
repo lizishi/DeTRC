@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://arxiv.org/", target="_blank">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=arXiv&color=B31B1B&logo=arXiv&logoColor=FFFFFF&label="></a>
-<a href="https://walter0807.github.io/LM-Belief/", target="_blank">
+<a href="https://shirleymaxx.github.io/action_counting/", target="_blank">
 <img src="https://img.shields.io/badge/_-Project-18405a?style=for-the-badge&logo=Google%20Chrome&logoColor=white" alt="Project Page"></a>
 </p>
 This is the official PyTorch implementation of the paper "Efficient Action Counting with Dynamic Queries". It provides a novel perspective to tackle the *Temporal Repetition Counting* problem using a simple yet effective representation for action cycles, reducing the computational complexity from **quadratic** to **linear** with SOTA performance.
