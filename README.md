@@ -74,7 +74,7 @@ If you find our work useful for your project, please cite the paper as below:
 ```
 @article{li2024efficient,
   title={Efficient Action Counting with Dynamic Queries},
-  author={Li, Zishi and Ma, Xiaoxuan and Shang, Qiuyan and Zhu, Wentao and Qiao, Yu and Wang, Yizhou},
+  author={Li, Zishi and Ma, Xiaoxuan and Shang, Qiuyan and Zhu, Wentao and Ci, Hai and Qiao, Yu and Wang, Yizhou},
   journal={arXiv preprint arXiv:2402.TBD},
   year={2024}
 }
