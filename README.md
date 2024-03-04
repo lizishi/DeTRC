@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://arxiv.org/", target="_blank">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=arXiv&color=B31B1B&logo=arXiv&logoColor=FFFFFF&label="></a>
-<a href="https://shirleymaxx.github.io/action_counting/", target="_blank">
+<a href="https://shirleymaxx.github.io/DeTRC/", target="_blank">
 <img src="https://img.shields.io/badge/_-Project-18405a?style=for-the-badge&logo=Google%20Chrome&logoColor=white" alt="Project Page"></a>
 <a href="https://www.youtube.com/watch?v=HHSCtMrkzKw&ab_channel=XiaoxuanMa", target="_blank">
 <img src="https://img.shields.io/badge/_-Video-ea3323?style=for-the-badge&logo=Youtube&logoColor=white" alt="YouTube"></a>
@@ -13,7 +13,7 @@
 This is the official PyTorch implementation of the paper "Efficient Action Counting with Dynamic Queries". It provides a novel perspective to tackle the *Temporal Repetition Counting* problem using a simple yet effective representation for action cycles, reducing the computational complexity from **quadratic** to **linear** with SOTA performance.
 
 <p align="center">
-<img src="https://shirleymaxx.github.io/action_counting/images/structure_diff.jpg" style="width: 100%;">
+<img src="https://shirleymaxx.github.io/DeTRC/images/structure_diff.jpg" style="width: 100%;">
 </p>
 
 
@@ -61,12 +61,12 @@ python tools/test.py DeTRC/configs/repcount_tsn_feature_enc_contrastive.py PATH_
 
 ## Results
 
-| ![pose_1](https://shirleymaxx.github.io/action_counting/images/assets/stu7_8.gif) | ![pose_1](https://shirleymaxx.github.io/action_counting/images/assets/stu1_27.gif) |
+| ![pose_1](https://shirleymaxx.github.io/DeTRC/images/assets/stu7_8.gif) | ![pose_1](https://shirleymaxx.github.io/DeTRC/images/assets/stu1_27.gif) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 Comparison with SOTA:
 
-![cmp_1](https://shirleymaxx.github.io/action_counting/images/assets/sota2.gif)
+![cmp_1](https://shirleymaxx.github.io/DeTRC/images/assets/sota2.gif)
 
 ## Citation
 
