@@ -1,11 +1,11 @@
 # Efficient Action Counting with Dynamic Queries
 
 <p align="center">
-<a href="https://arxiv.org/abs/2403.01543", target="_blank">
+<a href="https://arxiv.org/abs/2403.01543v3", target="_blank">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=arXiv&color=B31B1B&logo=arXiv&logoColor=FFFFFF&label="></a>
 <a href="https://shirleymaxx.github.io/DeTRC/", target="_blank">
 <img src="https://img.shields.io/badge/_-Project-18405a?style=for-the-badge&logo=Google%20Chrome&logoColor=white" alt="Project Page"></a>
-<a href="https://www.youtube.com/watch?v=HHSCtMrkzKw&ab_channel=XiaoxuanMa", target="_blank">
+<a href="https://www.youtube.com/watch?v=j98Zriek2xU&ab_channel=XiaoxuanMa", target="_blank">
 <img src="https://img.shields.io/badge/_-Video-ea3323?style=for-the-badge&logo=Youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
