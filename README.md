@@ -1,4 +1,4 @@
-# Efficient Action Counting with Dynamic Queries (IJCV 2026)
+# Efficient Action Counting with Dynamic Queries <br> (IJCV 2026)
 
 <p align="center">
 <a href="https://arxiv.org/abs/2403.01543", target="_blank">
