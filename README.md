@@ -1,7 +1,7 @@
-# Efficient Action Counting with Dynamic Queries
+# Efficient Action Counting with Dynamic Queries (IJCV 2026)
 
 <p align="center">
-<a href="https://arxiv.org/abs/2403.01543v3", target="_blank">
+<a href="https://arxiv.org/abs/2403.01543", target="_blank">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=arXiv&color=B31B1B&logo=arXiv&logoColor=FFFFFF&label="></a>
 <a href="https://shirleymaxx.github.io/DeTRC/", target="_blank">
 <img src="https://img.shields.io/badge/_-Project-18405a?style=for-the-badge&logo=Google%20Chrome&logoColor=white" alt="Project Page"></a>
@@ -73,11 +73,12 @@ Comparison with SOTA:
 If you find our work useful for your project, please cite the paper as below:
 
 ```
-@article{li2024efficient,
+@article{ma2026efficient,
   title={Efficient Action Counting with Dynamic Queries},
-  author={Li, Zishi and Ma, Xiaoxuan and Shang, Qiuyan and Zhu, Wentao and Ci, Hai and Qiao, Yu and Wang, Yizhou},
-  journal={arXiv preprint arXiv:2403.01543},
-  year={2024}
+  author={Ma, Xiaoxuan and Li, Zishi and Shang, Qiuyan and Zhu, Wentao and Ci, Hai and Qiao, Yu and Wang, Yizhou},
+  journal={International Journal of Computer Vision},
+  year={2026},
+  publisher={Springer}
 }
 ```
 
